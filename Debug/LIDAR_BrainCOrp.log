@@ -1,4 +1,0 @@
-﻿  TestCase.cpp
-c:\users\nikhi_000\documents\company application\coding assignment\braincorp\lidar_braincorp\lidar_braincorp\lidar.h(13): warning C4305: 'initializing': truncation from 'double' to 'const float'
-  LIDAR_BrainCOrp.vcxproj -> C:\Users\nikhi_000\Documents\Company Application\coding assignment\BrainCorp\LIDAR_BrainCOrp\Debug\LIDAR_BrainCOrp.exe
-  LIDAR_BrainCOrp.vcxproj -> C:\Users\nikhi_000\Documents\Company Application\coding assignment\BrainCorp\LIDAR_BrainCOrp\Debug\LIDAR_BrainCOrp.pdb (Full PDB)
