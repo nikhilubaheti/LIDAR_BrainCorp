@@ -1,7 +1,7 @@
-#include "TestCase.h"
-#include "LIDAR.h"
-#include "RangeFilter.h"
-#include "TemporalMedianFilter.h"
+#include "includes/TestCase.h"
+#include "includes/LIDAR.h"
+#include "includes/RangeFilter.h"
+#include "includes/TemporalMedianFilter.h"
 #include <iostream>
 
 typedef std::vector<double> array1D;
